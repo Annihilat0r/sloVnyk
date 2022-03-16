@@ -30,3 +30,6 @@ Note: Changes made to a profile file may not apply until the next time you log i
   - Перевіряємо як працює пошук сабдоменів
 `gobuster dns -d example.com -t 50 -w /usr/share/sloVnyk/subdomains/top_100.txt`  
 *Документація по gobuster: https://github.com/OJ/gobuster *
+
+Запуск з корисними ключами:  
+`gobuster dir -u https://example.com -w /usr/share/sloVnyk/web/web_big_25811.txt --wildcard --useragent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"  --expanded -k -r`
