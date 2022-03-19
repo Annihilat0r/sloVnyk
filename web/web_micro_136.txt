@@ -89,6 +89,9 @@ bitrix/.settings
 bitrix/admin/i.php
 bitrix/admin/
 bitrix/web.config
+bitrix_server_test.php
+bitrix/bitrix_server_test.php
+bitrix/scripts/bitrix_server_test.php
 conf/
 config.ini
 config.php
