@@ -624,6 +624,9 @@ bin/
 bin/config.sh
 bin/hostname
 bitrix/
+bitrix_server_test.php
+bitrix/bitrix_server_test.php
+bitrix/scripts/bitrix_server_test.php
 bitrix/.settings
 bitrix/.settings.bak
 bitrix/.settings.php
@@ -684,7 +687,6 @@ bitrix/settings.php.bak
 bitrix/stack_cache
 bitrix/web.config
 bitrix_server_test.log
-bitrix_server_test.php
 bitrixsetup.php
 biy/
 biy/upload/
