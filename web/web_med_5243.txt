@@ -1617,6 +1617,8 @@ bitrix/stack_cache
 bitrix/web.config
 bitrix_server_test.log
 bitrix_server_test.php
+bitrix/bitrix_server_test.php
+bitrix/scripts/bitrix_server_test.php
 bitrixsetup.php
 biy/
 biy/upload/
